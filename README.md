@@ -58,11 +58,9 @@ This system performs:
 | Data Handling | Pandas, NumPy |
 
 
-## ⚠️ Important Note About Deep Learning Model (Keras File)
-
+## Important Note About Deep Learning Model (Keras File)
 Due to **GitHub’s file size limitation**, the **trained Keras autoencoder model exceeds 25MB**, therefore it **cannot be uploaded directly** to the repository.
 
-### 🔹 How To Generate the Deep Learning Model?
-
+### How To Generate the Deep Learning Model?
 Simply run:
 Netflix_Project.py
