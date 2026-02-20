@@ -65,4 +65,4 @@ Due to **GitHub’s file size limitation**, the **trained Keras autoencoder mode
 ### 🔹 How To Generate the Deep Learning Model?
 
 Simply run:
-python Netflix_Project.py
+Netflix_Project.py
